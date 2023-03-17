@@ -1,0 +1,88 @@
+1 	Rv0237 	lpqI 	Probable conserved lipoprotein LpqI
+2 	Rv0265c 	Rv0265c 	Probable periplasmic iron-transport lipoprotein
+3 	Rv0173 	lprK 	Possible Mce-family lipoprotein LprK (Mce-family lipoprotein Mce1E)
+4 	Rv0179c 	lprO 	Possible lipoprotein LprO
+5 	Rv0399c 	lpqK 	Possible conserved lipoprotein LpqK
+6 	Rv0411c 	glnH 	Probable glutamine-binding lipoprotein GlnH (GLNBP)
+7 	Rv0418 	lpqL 	Probable lipoprotein aminopeptidase LpqL
+8 	Rv0419 	lpqM 	Possible lipoprotein peptidase LpqM
+9 	Rv0483 	lprQ 	Probable conserved lipoprotein LprQ
+10 	Rv2270 	lppN 	Probable lipoprotein LppN
+11 	Rv0671 	lpqP 	Possible conserved lipoprotein LpqP
+12 	Rv0344c 	lpqJ 	Probable lipoprotein LpqJ
+13 	Rv0583c 	lpqN 	Probable conserved lipoprotein LpqN
+14 	Rv0593 	lprL 	Possible Mce-family lipoprotein LprL (Mce-family lipoprotein Mce2E)
+15 	Rv0604 	lpqO 	Probable conserved lipoprotein LpqO
+16 	Rv1016c 	lpqT 	Probable conserved lipoprotein LpqT
+17 	Rv1022 	lpqU 	Probable conserved lipoprotein LpqU
+18 	Rv0934 	pstS1 	Periplasmic phosphate-binding lipoprotein PstS1 (PBP-1) (PstS1)
+19 	Rv0962c 	lprP 	Possible lipoprotein LprP
+20 	Rv0928 	pstS3 	Periplasmic phosphate-binding lipoprotein PstS3 (PBP-3) (PstS3) (PHOS1)
+21 	Rv0932c 	pstS2 	Periplasmic phosphate-binding lipoprotein PstS2 (PBP-2) (PstS2)
+22 	Rv1166 	lpqW 	Probable conserved lipoprotein LpqW
+23 	Rv0835 	lpqQ 	Possible lipoprotein LpqQ
+24 	Rv0838 	lpqR 	Probable conserved lipoprotein LpqR
+25 	Rv0847 	lpqS 	Probable lipoprotein LpqS
+26 	Rv1064c 	lpqV 	Possible lipoprotein LpqV
+27 	Rv1270c 	lprA 	Possible lipoprotein LprA
+28 	Rv1274 	lprB 	Possible lipoprotein LprB
+29 	Rv1275 	lprC 	Possible lipoprotein LprC
+30 	Rv1280c 	oppA 	Probable periplasmic oligopeptide-binding lipoprotein OppA
+31 	Rv1411c 	lprG 	Conserved lipoprotein LprG
+32 	Rv1418 	lprH 	Probable lipoprotein LprH
+33 	Rv1343c 	lprD 	Probable conserved lipoprotein LprD
+34 	Rv1228 	lpqX 	Probable lipoprotein LpqX
+35 	Rv1368 	lprF 	Probable conserved lipoprotein LprF
+36 	Rv1235 	lpqY 	Probable sugar-binding lipoprotein LpqY
+37 	Rv1244 	lpqZ 	Probable lipoprotein LpqZ
+38 	Rv1252c 	lprE 	Probable lipoprotein LprE
+39 	Rv1539 	lspA 	Probable lipoprotein signal peptidase LspA
+40 	Rv1541c 	lprI 	Possible lipoprotein LprI
+41 	Rv1614 	lgt 	Possible prolipoprotein diacylglyceryl transferases Lgt
+42 	Rv1677 	dsbF 	Probable conserved lipoprotein DsbF
+43 	Rv1690 	lprJ 	Probable lipoprotein LprJ
+44 	Rv1799 	lppT 	Probable lipoprotein LppT
+45 	Rv1857 	modA 	Probable molybdate-binding lipoprotein ModA
+46 	Rv1881c 	lppE 	Possible conserved lipoprotein LppE
+47 	Rv1899c 	lppD 	Possible lipoprotein LppD
+48 	Rv1911c 	lppC 	Probable lipoprotein LppC
+49 	Rv1921c 	lppF 	Probable conserved lipoprotein LppF
+50 	Rv1922 	Rv1922 	Probable conserved lipoprotein
+51 	Rv2041c 	Rv2041c 	Probable sugar-binding lipoprotein
+52 	Rv2046 	lppI 	Probable lipoprotein LppI
+53 	Rv1946c 	lppG 	Possible lipoprotein
+54 	Rv1970 	lprM 	Possible Mce-family lipoprotein LprM (Mce-family lipoprotein Mce3E)
+55 	Rv2341 	lppQ 	Probable conserved lipoprotein LppQ
+56 	Rv2400c 	subI 	Probable sulfate-binding lipoprotein SubI
+57 	Rv2403c 	lppR 	Probable conserved lipoprotein LppR
+58 	Rv2290 	lppO 	Probable conserved lipoprotein LppO
+59 	Rv2171 	lppM 	Probable conserved lipoprotein LppM
+60 	Rv2080 	lppJ 	Lipoprotein LppJ
+61 	Rv2116 	lppK 	Conserved lipoprotein LppK
+62 	Rv2138 	lppL 	Probable conserved lipoprotein LppL
+63 	Rv2318 	uspC 	Probable periplasmic sugar-binding lipoprotein UspC
+64 	Rv2330c 	lppP 	Probable lipoprotein LppP
+65 	Rv2585c 	Rv2585c 	Possible conserved lipoprotein
+66 	Rv2864c 	Rv2864c 	Possible penicillin-binding lipoprotein
+67 	Rv2873 	mpt83 	Cell surface lipoprotein Mpt83 (lipoprotein P23)
+68 	Rv2905 	lppW 	Probable conserved alanine rich lipoprotein LppW
+69 	Rv2544 	lppB 	Probable conserved lipoprotein LppB
+70 	Rv2833c 	ugpB 	Probable Sn-glycerol-3-phosphate-binding lipoprotein UgpB
+71 	Rv2543 	lppA 	Probable conserved lipoprotein LppA
+72 	Rv2784c 	lppU 	Probable lipoprotein LppU
+73 	Rv2796c 	lppV 	Probable conserved lipoprotein LppV
+74 	Rv3298c 	lpqC 	Possible esterase lipoprotein LpqC
+75 	Rv3244c 	lpqB 	Probable conserved lipoprotein LpqB
+76 	Rv2945c 	lppX 	Probable conserved lipoprotein LppX
+77 	Rv2999 	lppY 	Probable conserved lipoprotein LppY
+78 	Rv3006 	lppZ 	Probable conserved lipoprotein LppZ
+79 	Rv3016 	lpqA 	Probable lipoprotein LpqA
+80 	Rv3044 	fecB 	Probable FEIII-dicitrate-binding periplasmic lipoprotein FecB
+81 	Rv3584 	lpqE 	Possible conserved lipoprotein LpqE
+82 	Rv3593 	lpqF 	Probable conserved lipoprotein LpqF
+83 	Rv3623 	lpqG 	Probable conserved lipoprotein LpqG
+84 	Rv3390 	lpqD 	Probable conserved lipoprotein LpqD
+85 	Rv3576 	lppH 	Possible conserved lipoprotein LppH
+86 	Rv3666c 	dppA 	Probable periplasmic dipeptide-binding lipoprotein DppA
+87 	Rv3759c 	proX 	Possible osmoprotectant (glycine betaine/carnitine/choline/L-proline) binding lipoprotein ProX
+88 	Rv3763 	lpqH 	19 kDa lipoprotein antigen precursor LpqH
