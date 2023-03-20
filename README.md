@@ -16,3 +16,6 @@ jupyter notebook
 
 
 # la Corrida esta detallada en la notebook
+
+#CONCLUSION: 
+Se encontraron 29 posibles Lipoproteinas, este datos debe ser revisado ya que por diferencias en la anotación de los predictores para la anotacion de genomas pueden genenral aparicion o ausencia de secuencias señales para las lipoproteinas respecto a las Lipoproteinas identificadas preciamente en la base de datos de referencia MycoBorwser.
